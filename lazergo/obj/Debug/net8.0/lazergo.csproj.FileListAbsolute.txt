@@ -1,0 +1,682 @@
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\appsettings.json
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\lazergo.staticwebassets.runtime.json
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\lazergo.exe
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\lazergo.deps.json
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\lazergo.runtimeconfig.json
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\lazergo.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\lazergo.pdb
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\Humanizer.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\obj\Debug\net8.0\lazergo.csproj.AssemblyReference.cache
+C:\Users\jefinfu\source\repos\lazergo\lazergo\obj\Debug\net8.0\lazergo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jefinfu\source\repos\lazergo\lazergo\obj\Debug\net8.0\lazergo.AssemblyInfoInputs.cache
+C:\Users\jefinfu\source\repos\lazergo\lazergo\obj\Debug\net8.0\lazergo.AssemblyInfo.cs
+C:\Users\jefinfu\source\repos\lazergo\lazergo\obj\Debug\net8.0\lazergo.csproj.CoreCompileInputs.cache
+C:\Users\jefinfu\source\repos\lazergo\lazergo\obj\Debug\net8.0\lazergo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jefinfu\source\repos\lazergo\lazergo\obj\Debug\net8.0\lazergo.RazorAssemblyInfo.cache
+C:\Users\jefinfu\source\repos\lazergo\lazergo\obj\Debug\net8.0\lazergo.RazorAssemblyInfo.cs
+C:\Users\jefinfu\source\repos\lazergo\lazergo\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\jefinfu\source\repos\lazergo\lazergo\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\jefinfu\source\repos\lazergo\lazergo\obj\Debug\net8.0\staticwebassets\msbuild.lazergo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jefinfu\source\repos\lazergo\lazergo\obj\Debug\net8.0\staticwebassets\msbuild.build.lazergo.props
+C:\Users\jefinfu\source\repos\lazergo\lazergo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.lazergo.props
+C:\Users\jefinfu\source\repos\lazergo\lazergo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.lazergo.props
+C:\Users\jefinfu\source\repos\lazergo\lazergo\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\jefinfu\source\repos\lazergo\lazergo\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\jefinfu\source\repos\lazergo\lazergo\obj\Debug\net8.0\scopedcss\bundle\lazergo.styles.css
+C:\Users\jefinfu\source\repos\lazergo\lazergo\obj\Debug\net8.0\scopedcss\projectbundle\lazergo.bundle.scp.css
+C:\Users\jefinfu\source\repos\lazergo\lazergo\obj\Debug\net8.0\lazergo.csproj.Up2Date
+C:\Users\jefinfu\source\repos\lazergo\lazergo\obj\Debug\net8.0\lazergo.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\obj\Debug\net8.0\refint\lazergo.dll
+C:\Users\jefinfu\source\repos\lazergo\lazergo\obj\Debug\net8.0\lazergo.pdb
+C:\Users\jefinfu\source\repos\lazergo\lazergo\obj\Debug\net8.0\lazergo.genruntimeconfig.cache
+C:\Users\jefinfu\source\repos\lazergo\lazergo\obj\Debug\net8.0\ref\lazergo.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\appsettings.Development.json
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\appsettings.json
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\lazergo.staticwebassets.runtime.json
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\lazergo.exe
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\lazergo.deps.json
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\lazergo.runtimeconfig.json
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\lazergo.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\lazergo.pdb
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\Azure.Core.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\Azure.Identity.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\Humanizer.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\MySql.Data.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\MySqlConnector.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\System.CodeDom.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\ZstdSharp.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Jefferson\SENAI\lazergo\lazergo\obj\Debug\net8.0\lazergo.csproj.AssemblyReference.cache
+C:\Jefferson\SENAI\lazergo\lazergo\obj\Debug\net8.0\lazergo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Jefferson\SENAI\lazergo\lazergo\obj\Debug\net8.0\lazergo.AssemblyInfoInputs.cache
+C:\Jefferson\SENAI\lazergo\lazergo\obj\Debug\net8.0\lazergo.AssemblyInfo.cs
+C:\Jefferson\SENAI\lazergo\lazergo\obj\Debug\net8.0\lazergo.csproj.CoreCompileInputs.cache
+C:\Jefferson\SENAI\lazergo\lazergo\obj\Debug\net8.0\lazergo.MvcApplicationPartsAssemblyInfo.cache
+C:\Jefferson\SENAI\lazergo\lazergo\obj\Debug\net8.0\lazergo.RazorAssemblyInfo.cache
+C:\Jefferson\SENAI\lazergo\lazergo\obj\Debug\net8.0\lazergo.RazorAssemblyInfo.cs
+C:\Jefferson\SENAI\lazergo\lazergo\obj\Debug\net8.0\staticwebassets.build.json
+C:\Jefferson\SENAI\lazergo\lazergo\obj\Debug\net8.0\staticwebassets.development.json
+C:\Jefferson\SENAI\lazergo\lazergo\obj\Debug\net8.0\staticwebassets\msbuild.lazergo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Jefferson\SENAI\lazergo\lazergo\obj\Debug\net8.0\staticwebassets\msbuild.build.lazergo.props
+C:\Jefferson\SENAI\lazergo\lazergo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.lazergo.props
+C:\Jefferson\SENAI\lazergo\lazergo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.lazergo.props
+C:\Jefferson\SENAI\lazergo\lazergo\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Jefferson\SENAI\lazergo\lazergo\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Jefferson\SENAI\lazergo\lazergo\obj\Debug\net8.0\scopedcss\bundle\lazergo.styles.css
+C:\Jefferson\SENAI\lazergo\lazergo\obj\Debug\net8.0\scopedcss\projectbundle\lazergo.bundle.scp.css
+C:\Jefferson\SENAI\lazergo\lazergo\obj\Debug\net8.0\lazergo.csproj.Up2Date
+C:\Jefferson\SENAI\lazergo\lazergo\obj\Debug\net8.0\lazergo.dll
+C:\Jefferson\SENAI\lazergo\lazergo\obj\Debug\net8.0\refint\lazergo.dll
+C:\Jefferson\SENAI\lazergo\lazergo\obj\Debug\net8.0\lazergo.pdb
+C:\Jefferson\SENAI\lazergo\lazergo\obj\Debug\net8.0\lazergo.genruntimeconfig.cache
+C:\Jefferson\SENAI\lazergo\lazergo\obj\Debug\net8.0\ref\lazergo.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\obj\Debug\net8.0\lazergo.csproj.AssemblyReference.cache
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\obj\Debug\net8.0\lazergo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\obj\Debug\net8.0\lazergo.AssemblyInfoInputs.cache
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\obj\Debug\net8.0\lazergo.AssemblyInfo.cs
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\obj\Debug\net8.0\lazergo.csproj.CoreCompileInputs.cache
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\obj\Debug\net8.0\lazergo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\obj\Debug\net8.0\lazergo.RazorAssemblyInfo.cache
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\obj\Debug\net8.0\lazergo.RazorAssemblyInfo.cs
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\obj\Debug\net8.0\lazergo.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\obj\Debug\net8.0\refint\lazergo.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\obj\Debug\net8.0\lazergo.pdb
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\appsettings.json
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\lazergo.staticwebassets.runtime.json
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\lazergo.exe
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\lazergo.deps.json
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\lazergo.runtimeconfig.json
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\lazergo.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\lazergo.pdb
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\Microsoft.Build.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\NuGet.Common.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\NuGet.Configuration.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\NuGet.LibraryModel.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\NuGet.Packaging.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\NuGet.ProjectModel.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\NuGet.Protocol.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\obj\Debug\net8.0\staticwebassets\msbuild.lazergo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\obj\Debug\net8.0\staticwebassets\msbuild.build.lazergo.props
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.lazergo.props
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.lazergo.props
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\obj\Debug\net8.0\scopedcss\bundle\lazergo.styles.css
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\obj\Debug\net8.0\scopedcss\projectbundle\lazergo.bundle.scp.css
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\obj\Debug\net8.0\lazergo.csproj.Up2Date
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\obj\Debug\net8.0\lazergo.genruntimeconfig.cache
+C:\Users\Roberto\Downloads\lazergo - Copia\lazergo\obj\Debug\net8.0\ref\lazergo.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\Microsoft.Build.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\NuGet.Common.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\NuGet.Configuration.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\NuGet.LibraryModel.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\NuGet.Packaging.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\NuGet.ProjectModel.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\NuGet.Protocol.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Jefferson\SENAI\lazergo\lazergo\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll

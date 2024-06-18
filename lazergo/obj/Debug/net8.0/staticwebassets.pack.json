@@ -1,0 +1,333 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Jefferson\\SENAI\\lazergo\\lazergo\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\lazergo.bundle.scp.css",
+      "PackagePath": "staticwebassets\\lazergo.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Jefferson\\SENAI\\lazergo\\lazergo\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Jefferson\\SENAI\\lazergo\\lazergo\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Jefferson\\SENAI\\lazergo\\lazergo\\wwwroot\\imagem\\17513-future-anime-wallpaper-top-free-future-anime-background.jpgadf62fe1-a4f3-4935-b804-ca1a1d7ee93c.png",
+      "PackagePath": "staticwebassets\\imagem\\17513-future-anime-wallpaper-top-free-future-anime-background.jpgadf62fe1-a4f3-4935-b804-ca1a1d7ee93c.png"
+    },
+    {
+      "Id": "C:\\Jefferson\\SENAI\\lazergo\\lazergo\\wwwroot\\imagem\\17513-future-anime-wallpaper-top-free-future-anime-background.jpgf36394c7-b7be-45c8-a7e4-daf867fac695.png",
+      "PackagePath": "staticwebassets\\imagem\\17513-future-anime-wallpaper-top-free-future-anime-background.jpgf36394c7-b7be-45c8-a7e4-daf867fac695.png"
+    },
+    {
+      "Id": "C:\\Jefferson\\SENAI\\lazergo\\lazergo\\wwwroot\\imagem\\57669_anime_girls_os-tan_ostan_microsoft.jpgf636b948-ecb5-4562-bfbe-6859d49b5f2a.png",
+      "PackagePath": "staticwebassets\\imagem\\57669_anime_girls_os-tan_ostan_microsoft.jpgf636b948-ecb5-4562-bfbe-6859d49b5f2a.png"
+    },
+    {
+      "Id": "C:\\Jefferson\\SENAI\\lazergo\\lazergo\\wwwroot\\imagem\\6dwhzo3.jpg92c7429c-65ef-4007-87f0-330864a09868.png",
+      "PackagePath": "staticwebassets\\imagem\\6dwhzo3.jpg92c7429c-65ef-4007-87f0-330864a09868.png"
+    },
+    {
+      "Id": "C:\\Jefferson\\SENAI\\lazergo\\lazergo\\wwwroot\\imagem\\852047.jpgafde9ed8-8ffa-4d8b-a761-e17bd1371638.png",
+      "PackagePath": "staticwebassets\\imagem\\852047.jpgafde9ed8-8ffa-4d8b-a761-e17bd1371638.png"
+    },
+    {
+      "Id": "C:\\Jefferson\\SENAI\\lazergo\\lazergo\\wwwroot\\imagens\\1600x935_px_balconies_city_cityscape_concept_art_dark_digital_art_fantasy_art-739762.jpg!d_beaad5c0-e978-4fe7-9b94-32255c2f0440.jpg",
+      "PackagePath": "staticwebassets\\imagens\\1600x935_px_balconies_city_cityscape_concept_art_dark_digital_art_fantasy_art-739762.jpg!d_beaad5c0-e978-4fe7-9b94-32255c2f0440.jpg"
+    },
+    {
+      "Id": "C:\\Jefferson\\SENAI\\lazergo\\lazergo\\wwwroot\\imagens\\1920x1080_px_alexey_art_artistic_cg_cities_city_dark-1780349.jpg!d_9668c0b8-7a6c-45fc-a2f8-9cd11c3762e2.jpg",
+      "PackagePath": "staticwebassets\\imagens\\1920x1080_px_alexey_art_artistic_cg_cities_city_dark-1780349.jpg!d_9668c0b8-7a6c-45fc-a2f8-9cd11c3762e2.jpg"
+    },
+    {
+      "Id": "C:\\Jefferson\\SENAI\\lazergo\\lazergo\\wwwroot\\imagens\\1920x1080_px_anime_asian_architecture-797672.jpg!d_6909b3d0-8306-4eda-87d8-feeee3b3c99d.jpg",
+      "PackagePath": "staticwebassets\\imagens\\1920x1080_px_anime_asian_architecture-797672.jpg!d_6909b3d0-8306-4eda-87d8-feeee3b3c99d.jpg"
+    },
+    {
+      "Id": "C:\\Jefferson\\SENAI\\lazergo\\lazergo\\wwwroot\\imagens\\3100x2046_px_anime_architecture_digital_art_japan-798408.jpg!d_747070d8-93db-43c3-b9dd-1ffb3f3a213e.jpg",
+      "PackagePath": "staticwebassets\\imagens\\3100x2046_px_anime_architecture_digital_art_japan-798408.jpg!d_747070d8-93db-43c3-b9dd-1ffb3f3a213e.jpg"
+    },
+    {
+      "Id": "C:\\Jefferson\\SENAI\\lazergo\\lazergo\\wwwroot\\imagens\\3104_e0fda5cb-3308-4921-99aa-0d32b113ffd6.jpg",
+      "PackagePath": "staticwebassets\\imagens\\3104_e0fda5cb-3308-4921-99aa-0d32b113ffd6.jpg"
+    },
+    {
+      "Id": "C:\\Jefferson\\SENAI\\lazergo\\lazergo\\wwwroot\\imagens\\3a442e47667e50f7348f6ee2a385a150_fcdfb7cc-cc70-4bdd-979e-5ab865f3071a.jpg",
+      "PackagePath": "staticwebassets\\imagens\\3a442e47667e50f7348f6ee2a385a150_fcdfb7cc-cc70-4bdd-979e-5ab865f3071a.jpg"
+    },
+    {
+      "Id": "C:\\Jefferson\\SENAI\\lazergo\\lazergo\\wwwroot\\imagens\\43563_anime_scenery_deep_forest_63a4ab5e-43ab-44d7-ae01-f15345d7d2c2.jpg",
+      "PackagePath": "staticwebassets\\imagens\\43563_anime_scenery_deep_forest_63a4ab5e-43ab-44d7-ae01-f15345d7d2c2.jpg"
+    },
+    {
+      "Id": "C:\\Jefferson\\SENAI\\lazergo\\lazergo\\wwwroot\\imagens\\44070fb6053cbd4636430cb767d7c9d6_371d2fee-00e6-4272-89c3-bc038d067064.jpg",
+      "PackagePath": "staticwebassets\\imagens\\44070fb6053cbd4636430cb767d7c9d6_371d2fee-00e6-4272-89c3-bc038d067064.jpg"
+    },
+    {
+      "Id": "C:\\Jefferson\\SENAI\\lazergo\\lazergo\\wwwroot\\imagens\\44399_anime_scenery_futuristic_city_b549b4e0-52d9-47b6-beb8-b2b6a358b18b.jpg",
+      "PackagePath": "staticwebassets\\imagens\\44399_anime_scenery_futuristic_city_b549b4e0-52d9-47b6-beb8-b2b6a358b18b.jpg"
+    },
+    {
+      "Id": "C:\\Jefferson\\SENAI\\lazergo\\lazergo\\wwwroot\\imagens\\6dwhzo3_b6009676-ef96-4d2e-a420-6b8fb2445e1a.jpg",
+      "PackagePath": "staticwebassets\\imagens\\6dwhzo3_b6009676-ef96-4d2e-a420-6b8fb2445e1a.jpg"
+    },
+    {
+      "Id": "C:\\Jefferson\\SENAI\\lazergo\\lazergo\\wwwroot\\imagens\\7b63aa0ba4c0b8e73d7ddc06f4eda46c_0384af4e-9f5f-46bf-8790-eb324b80689f.jpg",
+      "PackagePath": "staticwebassets\\imagens\\7b63aa0ba4c0b8e73d7ddc06f4eda46c_0384af4e-9f5f-46bf-8790-eb324b80689f.jpg"
+    },
+    {
+      "Id": "C:\\Jefferson\\SENAI\\lazergo\\lazergo\\wwwroot\\imagens\\7fa273b8adf538153a5ca836e6b89ef8_3673d101-5907-4e92-93ed-cac6bc0267aa.jpg",
+      "PackagePath": "staticwebassets\\imagens\\7fa273b8adf538153a5ca836e6b89ef8_3673d101-5907-4e92-93ed-cac6bc0267aa.jpg"
+    },
+    {
+      "Id": "C:\\Jefferson\\SENAI\\lazergo\\lazergo\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Jefferson\\SENAI\\lazergo\\lazergo\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Jefferson\\SENAI\\lazergo\\lazergo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Jefferson\\SENAI\\lazergo\\lazergo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Jefferson\\SENAI\\lazergo\\lazergo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Jefferson\\SENAI\\lazergo\\lazergo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Jefferson\\SENAI\\lazergo\\lazergo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Jefferson\\SENAI\\lazergo\\lazergo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Jefferson\\SENAI\\lazergo\\lazergo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Jefferson\\SENAI\\lazergo\\lazergo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Jefferson\\SENAI\\lazergo\\lazergo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Jefferson\\SENAI\\lazergo\\lazergo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Jefferson\\SENAI\\lazergo\\lazergo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Jefferson\\SENAI\\lazergo\\lazergo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Jefferson\\SENAI\\lazergo\\lazergo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Jefferson\\SENAI\\lazergo\\lazergo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Jefferson\\SENAI\\lazergo\\lazergo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Jefferson\\SENAI\\lazergo\\lazergo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Jefferson\\SENAI\\lazergo\\lazergo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Jefferson\\SENAI\\lazergo\\lazergo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Jefferson\\SENAI\\lazergo\\lazergo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Jefferson\\SENAI\\lazergo\\lazergo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Jefferson\\SENAI\\lazergo\\lazergo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Jefferson\\SENAI\\lazergo\\lazergo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Jefferson\\SENAI\\lazergo\\lazergo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Jefferson\\SENAI\\lazergo\\lazergo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Jefferson\\SENAI\\lazergo\\lazergo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Jefferson\\SENAI\\lazergo\\lazergo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Jefferson\\SENAI\\lazergo\\lazergo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Jefferson\\SENAI\\lazergo\\lazergo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Jefferson\\SENAI\\lazergo\\lazergo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Jefferson\\SENAI\\lazergo\\lazergo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Jefferson\\SENAI\\lazergo\\lazergo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Jefferson\\SENAI\\lazergo\\lazergo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Jefferson\\SENAI\\lazergo\\lazergo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Jefferson\\SENAI\\lazergo\\lazergo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Jefferson\\SENAI\\lazergo\\lazergo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Jefferson\\SENAI\\lazergo\\lazergo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Jefferson\\SENAI\\lazergo\\lazergo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Jefferson\\SENAI\\lazergo\\lazergo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Jefferson\\SENAI\\lazergo\\lazergo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Jefferson\\SENAI\\lazergo\\lazergo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Jefferson\\SENAI\\lazergo\\lazergo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Jefferson\\SENAI\\lazergo\\lazergo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Jefferson\\SENAI\\lazergo\\lazergo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Jefferson\\SENAI\\lazergo\\lazergo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Jefferson\\SENAI\\lazergo\\lazergo\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Jefferson\\SENAI\\lazergo\\lazergo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Jefferson\\SENAI\\lazergo\\lazergo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Jefferson\\SENAI\\lazergo\\lazergo\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Jefferson\\SENAI\\lazergo\\lazergo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Jefferson\\SENAI\\lazergo\\lazergo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Jefferson\\SENAI\\lazergo\\lazergo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Jefferson\\SENAI\\lazergo\\lazergo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Jefferson\\SENAI\\lazergo\\lazergo\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Jefferson\\SENAI\\lazergo\\lazergo\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Jefferson\\SENAI\\lazergo\\lazergo\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Jefferson\\SENAI\\lazergo\\lazergo\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.lazergo.props",
+      "PackagePath": "build\\lazergo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.lazergo.props",
+      "PackagePath": "buildMultiTargeting\\lazergo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.lazergo.props",
+      "PackagePath": "buildTransitive\\lazergo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.lazergo.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
